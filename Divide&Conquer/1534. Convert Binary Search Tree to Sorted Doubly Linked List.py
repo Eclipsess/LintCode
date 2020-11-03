@@ -40,6 +40,6 @@ class Solution:
             root.left = self.prev
         self.prev = root
         self.inorder(root.right)
-
+ewa
 # inorder
 # record the previous node and combine it to be doubly linked list.
